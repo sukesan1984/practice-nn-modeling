@@ -80,7 +80,7 @@ python-dateutil==2.7.3
 python-speech-features==0.6
 pytz==2018.5
 PyWavelets==1.0.0
-PyYAML==4.2b1
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.1
 resampy==0.2.1
