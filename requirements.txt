@@ -10,7 +10,7 @@ cloudpickle==0.5.6
 cupy==4.4.1
 cycler==0.10.0
 Cython==0.28.5
-dask==0.19.2
+dask==2021.10.0
 decorator==4.3.0
 defusedxml==0.5.0
 entrypoints==0.2.3
