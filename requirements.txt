@@ -20,7 +20,7 @@ future==0.16.0
 gast==0.2.0
 grpcio==1.13.0
 h5py==2.8.0
-horovod==0.13.10
+horovod==0.24.0
 html5lib==1.0.1
 ipykernel==4.9.0
 ipyparallel==6.2.2
